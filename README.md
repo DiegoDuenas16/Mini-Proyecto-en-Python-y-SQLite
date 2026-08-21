@@ -13,9 +13,7 @@ Este proyecto es una aplicación de consola desarrollada en Python que permite g
 
 ## Instalación
 1. Clona este repositorio o descarga el código fuente en formato ZIP.
-   ```
-   git clone https://github.com/USUARIO/NOMBRE-DEL-PROYECTO.git
-   ```
+   
 2. Descomprime los archivos y guárdalos en una carpeta de tu preferencia.
 
 ## ¿Cómo ejecutar el proyecto?
